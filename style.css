@@ -1,0 +1,14 @@
+a:visited{
+  
+    color: rgb(175, 92, 175);
+}
+ 
+
+
+@media (max-width:500px){
+    h3{
+   color:teal;
+   line-height: 25pxpx;;
+    }
+    }
+  
